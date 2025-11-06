@@ -52,7 +52,8 @@ o	Discount vs. non-discount behavior
 
 o	Customer loyalty metric
 
-###### Key Insights
+ ######          Key Insights
+         
 •	🛍️ Clothing and Accessories are the most purchased categories.
 
 •	💸Young adults and middle-aged customers are the main contributors to revenue.
