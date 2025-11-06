@@ -1,17 +1,20 @@
-# Customer_Shopping_Behavior_Analysis
+ # Customer_Shopping_Behavior_Analysis
 An end-to-end analysis of retail customer behavior to uncover insights and spending patterns
-Customer Shopping Behavior Analysis
-Overview
+
+## Overview
 This project explores and analyzes a retail customer shopping behavior dataset to help a company better understand how customers interact with its products, discounts, and subscription programs.
+
 The analysis was conducted as a complete data analytics workflow  from cleaning and modeling data in Python, to performing SQL-based business queries, and finally visualizing insights in Power BI.
+
 By combining these tools, the project answers key business questions such as:
 •	Which product categories drive the most purchases?
 •	How do discounts and reviews influence buying behavior?
 •	Which customer segments are the most loyal or profitable?
 •	Are repeat buyers more likely to subscribe to the company’s programs?
+
 The final outcome is a set of data-driven insights and recommendations that can help the company improve marketing strategies, customer retention, and sales performance
 
-Deliverables
+## Deliverables
 Data Preparation & Modeling (Python)
 •	Cleaned and transformed the raw dataset (customer_shopping_behavior.csv).
 •	Removed nulls, standardized column names, and ensured consistent data types.
@@ -29,7 +32,7 @@ o	Total revenue and average spend per segment
 o	Product performance by category
 o	Discount vs. non-discount behavior
 o	Customer loyalty metric
-Key Insights
+## Key Insights
 •	🛍️ Clothing and Accessories are the most purchased categories.
 •	💸Young adults and middle-aged customers are the main contributors to revenue.
 •	💎 Loyal customers (10+ purchases) contribute the highest revenue.
