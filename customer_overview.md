@@ -100,6 +100,7 @@ Revenue contribution of each age group — **young adults** and **middle-aged cu
 
 An interactive **Power BI dashboard** was created to visualize insights from the analysis
 
+![Customer_Behavior_Dashboard](Capture d'écran 2025-11-06 193359.png)
 
 
 ## 💡 Key Insights
